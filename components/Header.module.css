@@ -1,0 +1,11 @@
+.active {
+    color: blue;
+}
+
+.header-list li {
+    margin-right: 1rem;
+}
+
+.flex {
+    display: flex;
+}
